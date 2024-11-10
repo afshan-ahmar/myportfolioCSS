@@ -12,7 +12,7 @@ export default function Hero(){
         </div>
         {/*right*/}
 <div className="hero-right-div">
-    <h1 className="title-hero">I'am Afshan Ahmar Front-End Developer</h1>
+    <h1 className="title-hero">I am Afshan Ahmar Front-End Developer</h1>
     <p className="des-hero">To secure an employment  opportunity  with a progressive
         organization,where I can utilize my professional skills and 
         knowledge to the maximum add value in the growth of the organization

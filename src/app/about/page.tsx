@@ -9,7 +9,7 @@ export default function About() {
     <h1 className="text-4xl text-center">ABOUT US</h1>
     <br/>
     <div className="flex justify-center">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrA5wADUufxNYmKuH6uDaeO26t1ra3xRyXyw&s" height={100} width={100}></img>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrA5wADUufxNYmKuH6uDaeO26t1ra3xRyXyw&s" alt="" height={100} width={100}></img>
     </div>
     <section id="personal-info">
         <h1 className="text-4xl text-center"><b>PERSONAL INFORMATION</b></h1>
