@@ -5,7 +5,7 @@ import { RiAdvertisementFill } from "react-icons/ri";
 import { MdNoPhotography } from "react-icons/md";
 import { GiGameConsole } from "react-icons/gi";
 import { GiLaptop } from "react-icons/gi";
- import Link from 'next/link';
+ 
 
 
 export default function Services(){

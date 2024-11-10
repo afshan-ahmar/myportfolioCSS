@@ -1,6 +1,6 @@
-import Image from "next/image";
+
 import "../style/contact.css";
-import Link from "next/link";
+
 export default function Contact() {
   return (
 
